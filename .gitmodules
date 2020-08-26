@@ -1,0 +1,9 @@
+[submodule "packages/fabric"]
+	path = packages/fabric
+	url = git@github.com:mulcloud/fabric.git
+[submodule "packages/tools"]
+	path = packages/tools
+	url = git@github.com:mulcloud/muld-tools.git
+[submodule "packages/muld"]
+	path = packages/muld
+	url = git@github.com:mulcloud/muld.git
